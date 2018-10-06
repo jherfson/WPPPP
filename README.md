@@ -25,6 +25,9 @@ https://wiki.python.org.br/ExerciciosArquivos
 
 https://wiki.python.org.br/ExerciciosFuncoes
 
+## String
+https://wiki.python.org.br/ExerciciosComStrings
+
 
 
 
