@@ -1,5 +1,5 @@
 # WPPPP
-Primeira aula - Exercício
+## Primeira aula - Exercício
 
 1º) Escreva um programa que pergunte a velocidade do carro de um usuário. Caso utrapasse 80km/h, exiba uma mensagem dizendo que o usuário foi multado. Nessa caso,exiba o valor da multa, cobrando R$5,00 por km acima de 80.
 
@@ -11,7 +11,7 @@ Primeira aula - Exercício
 
 5º)Impressão de números pares de 0 até um número digitado pelo usuário.
 
-Segunda Aula - Exercício
+## Segunda Aula - Exercício
 
 ## listas
 
