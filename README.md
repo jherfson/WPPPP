@@ -12,15 +12,16 @@ Primeira aula - Exercício
 5º)Impressão de números pares de 0 até um número digitado pelo usuário.
 
 Segunda Aula - Exercício
-##listas
+
+## listas
 
 https://wiki.python.org.br/ExerciciosListas
 
-##Arquivo
+## Arquivo
 
 https://wiki.python.org.br/ExerciciosArquivos
 
-##Funções
+## Funções
 
 https://wiki.python.org.br/ExerciciosFuncoes
 
