@@ -13,10 +13,15 @@ Primeira aula - Exercício
 
 Segunda Aula - Exercício
 ##listas
+
 https://wiki.python.org.br/ExerciciosListas
+
 ##Arquivo
+
 https://wiki.python.org.br/ExerciciosArquivos
+
 ##Funções
+
 https://wiki.python.org.br/ExerciciosFuncoes
 
 
